@@ -5,3 +5,7 @@
 Simple DDOS script using python sockets and threading. 
 
 ** Fake ip variable can still be traced , use only with permission. **
+
+Use wireshark to monitor traffic 
+
+
